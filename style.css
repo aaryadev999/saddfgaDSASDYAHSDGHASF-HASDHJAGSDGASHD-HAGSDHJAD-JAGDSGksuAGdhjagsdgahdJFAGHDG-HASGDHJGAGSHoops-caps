@@ -1,0 +1,28 @@
+  .heading
+  {
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px blue;
+  }
+  .heading_div
+  {
+    background: lime ; 
+    border-radius: 20px; 
+    color: red;
+    box-shadow:5px 5px 5px blue;
+  }
+  .heading_div2
+  {
+    font-size: 18px ;
+  }
+  .result_para_tag
+  {
+    box-shadow:5px 5px 5px blue;
+    font-size: 20px;
+  }
+ body{
+   color: lime;
+ }
+ .copy_right_footer{
+   background-color: rgba(37, 37, 39, 0.904);
+ }
